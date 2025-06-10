@@ -1,0 +1,193 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Oswald", sans-serif;
+}
+
+.main {
+    height: 100vh;
+    width: 100vw;
+}
+
+.container1 {
+    padding-top: 335px;
+    padding-left: 138px;
+    display: inline-block;
+    width: 60%;
+}
+
+button {
+    border-radius: 30px;
+    border: none;
+    height: 62px;
+    width: 269px;
+    background-color: #9499EA;
+    font-weight: 400;
+    font-size: 24px;
+    cursor: pointer;
+    color: white;
+    transition: 0.5S;
+}
+
+button:hover {
+    opacity: 70%;
+}
+
+button:active {
+    opacity: 50%;
+}
+
+p {
+    margin: 15px 0 15px;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 48px;
+    color: #5d5d7d;
+    opacity: 60%;
+    height: 144px;
+    width: 560px;
+
+}
+
+h1 {
+    color: #5d5d7d;
+    height: 160px;
+    width: 368px;
+    font-weight: 400;
+    font-size: 70px;
+    line-height: 80px;
+}
+
+.container2 {
+    background: #E5E5EA;
+    position: absolute;
+    width: 40%;
+    display: inline-block;
+    height: 100vh;
+}
+
+a:hover {
+    opacity: 80%;
+}
+
+a:active {
+    opacity: 60%;
+}
+
+header {
+    margin-left: 50px;
+    margin-top: 41px;
+    font-size: 28px;
+    font-weight: 400;
+    color: #5d5d7e;
+    line-height: 100%;
+    cursor: pointer;
+}
+
+a {
+    margin-left: 30px;
+}
+
+img {
+    height: 561px;
+    width: 456;
+    margin-top: 100px;
+    position: absolute;
+    right: 19vw;
+}
+
+a:nth-child(2) {
+    opacity: 40%;
+}
+
+#link:hover {
+    opacity: 21%;
+}
+
+#link:active {
+    color: #9499EA;
+}
+
+@media screen and (max-width: 1300px) {
+    img {
+        margin-left: 1px;
+        margin-top: 120px;
+        height: 350px; 
+        width: 270px;
+    }
+
+    .container1 {
+        padding-left: 6vw;
+        padding-top: 220px;
+    }
+
+    header{
+        line-height: 50px;
+    }
+
+    p {
+        font-size: 20px;
+        width: 400px;
+    }
+
+    .container2 {
+        width: 40%;
+    }
+
+}
+
+
+@media screen and (max-width: 850px) {
+
+    .container1 {
+        margin: 0;
+        padding: 0;
+        text-align: center;
+        display: block;
+        height: 50vh;
+        width: 100%;
+    }
+
+    P {
+        margin: 15px 40px;
+        display: block;
+        font-size: 14px;
+        line-height: 24px;
+        width: auto;
+        height: 96px;
+    }
+
+    h1 {
+        margin: 40px 50px 0 58px;
+        display: block;
+        font-size: 36px;
+        line-height: 52px;
+        height: 104px;
+        width: auto;
+    }
+    
+    .container2 {
+        margin: 0;
+        padding: 40px;
+        align-items: center;
+        position: static;
+        display: block;
+        width: 100%;
+        height: 50vh;
+    }
+
+    header {
+        display: none;
+    }
+
+    img {
+        margin-left: 0;
+        margin: auto;
+        padding: 0;
+        position: static;
+        display: block;
+        width: 250px;
+        height: 280px;
+    }
+}
