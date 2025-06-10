@@ -10,4 +10,4 @@
 <img src="https://github.com/joseilsonJs/easy-shoping/blob/master/projeto/assets/Captura%20de%20tela%202025-06-09%20213744.png?raw=true"/>
 <br>
 <br>
-<img src=""/>
+<img src="https://github.com/joseilsonJs/easy-shoping/blob/master/projeto/assets/Captura%20de%20tela%202025-06-09%20214310.png?raw=true"/>
