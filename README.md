@@ -7,7 +7,7 @@
 <h3>Esse projeto foi feito com intuito de treino e depois ao aprender mais sobre CSS fiz a respansividade dele para tablet e celular, foi um projeto com informações retirado do <a href="https://www.figma.com/pt-br/"
 >figma</a>, bem simples e básico, serviu para meu aprimoramento de habilidades.</h3>  
 <br>
-<img src="https://github.com/joseilsonJs/easy-shopping/blob/main/projeto/assets/Captura%20de%20tela%202025-06-09%20213744.png?raw=true"/>
+<img src=""/>
 <br>
 <br>
-<img src="https://github.com/joseilsonJs/easy-shopping/blob/main/projeto/assets/Captura%20de%20tela%202025-06-09%20214310.png?raw=true"/>
+<img src=""/>
